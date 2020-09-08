@@ -28,6 +28,8 @@
 .over-video {
     position: relative;
     top: 25px;
+    left: 50%;
+    transform: translateX(-50%);
     text-align: center;
     display: flex;
     align-items: center;
