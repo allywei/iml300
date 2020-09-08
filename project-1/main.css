@@ -4,7 +4,7 @@
     margin-right: auto;
     margin-top: 25px;
     margin-bottom: auto;
-    width: 50%
+    width: 30%
 }
 .center2 {
     display: block;
@@ -12,7 +12,7 @@
     margin-right: auto;
     margin-top: 25px;
     margin-bottom: auto;
-    width: 10%
+    width: 7%
 }
 
 
@@ -28,4 +28,8 @@ z-index:-100;
     margin-top: 25px;
     margin-bottom: auto;
     width: 50%
+}
+
+.above {
+    z-index: 100;
 }
