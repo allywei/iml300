@@ -17,6 +17,15 @@
 
 
 
-#background-video {
+.background-video {
 z-index:-100;
+}
+
+#lily {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+    margin-bottom: auto;
+    width: 50%
 }
