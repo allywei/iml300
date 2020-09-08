@@ -17,12 +17,14 @@
 
 
 .background-video {
-    z-index:-100;
     Position: fixed;
     Right: 0;
     Bottom: 0;
     Min-width: 100%;
     Min-height: 100%;
+    top: 0;
+    left: 0;
+    margin: auto;
 }
 
 #lily {
@@ -35,6 +37,6 @@
 }
 
 .above {
-    z-index: -900000000000;
+  z-index: 100;
     
 }
