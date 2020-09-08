@@ -4,7 +4,7 @@
     margin-right: auto;
     margin-top: 25px;
     margin-bottom: auto;
-    width: 30%
+    width: 30%;
 }
 .center2 {
     display: block;
@@ -27,7 +27,6 @@
 
 .over-video {
     position: relative;
-    left: 50%;
     top: 25px;
     text-align: center;
     display: flex;
@@ -35,6 +34,10 @@
     justify-content: center;
     margin-top: 25px;
     width: 30%;
+}
+
+.in-video {
+    object-fit: cover;
 }
 
 video {
