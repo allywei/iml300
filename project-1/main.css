@@ -26,18 +26,21 @@
 }
 
 .over-video {
-    position: fixed;
+    position: relative;
     margin-left: auto;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     margin-top: 25px;
     width: 30%;
 }
 
-.background-video {
+video {
+    object-fit: cover;
+    width: 100vw;
+    height: 100vh;
     position: fixed;
-    right: 0;
-    bottom: 0;
-    width: 100%;
-    height: 100%;
-
-    
+    top: 0;
+    left: 0;
 }
