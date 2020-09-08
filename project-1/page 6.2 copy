@@ -1,0 +1,30 @@
+.background-video {
+    Position: fixed;
+    Right: 0;
+    Bottom: 0;
+    Min-width: 100%;
+    Min-height: 100%;
+    top: 0;
+    left: 0;
+    margin: auto;
+    
+    
+    <!DOCTYPE html>
+
+<html>
+    <link rel="stylesheet" href="main.css">
+    
+<header class="above">
+    <a href="page-6.2.html"> <img class="above" src="asset/nightbutton.png" class="center2"> </a>
+</header>
+    
+  <body>
+<div class="background-video">
+ <video playsinline autoplay muted loop>
+        <source src="asset/daylight_lighthouse.mov" type="video/webm">
+    </video></div>
+      
+      
+    <a href="page-7.html"><img src="asset/lighthouse%20light-01.png" class="above" class="center"></a>
+    </body>
+</html>

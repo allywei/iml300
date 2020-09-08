@@ -16,17 +16,6 @@
 }
 
 
-.background-video {
-    Position: fixed;
-    Right: 0;
-    Bottom: 0;
-    Min-width: 100%;
-    Min-height: 100%;
-    top: 0;
-    left: 0;
-    margin: auto;
-}
-
 #lily {
     display: block;
     margin-left: auto;
@@ -35,8 +24,4 @@
     margin-bottom: auto;
     width: 30%
 }
-
-.above {
-  z-index: 100;
     
-}
