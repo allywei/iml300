@@ -60,7 +60,7 @@ video {
 }
 
 .introbackground {
-    width: 40px;
+    width: 100px;
     background-image: url(asset/introduction.gif)
 
 }
