@@ -28,6 +28,7 @@
 .over-video {
     position: relative;
     top: 15px;
+    bottom: 10px;
     left: 50%;
     transform: translateX(-50%);
     text-align: center;
@@ -40,7 +41,7 @@
 
 .video-button{
     position: relative;
-    top: 20px;
+    top: 50px;
     bottom: 5px;
     left: 50%;
     transform: translateX(-50%);
