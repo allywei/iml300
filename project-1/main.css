@@ -23,6 +23,11 @@
     margin-bottom: auto;
     width: 10%;
 }
+.centeraudio {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 
 .over-video {
     position: relative;
