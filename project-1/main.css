@@ -57,14 +57,10 @@ video {
     left: 0;
 }
 
-.intro-font {
-    font-family:monospace; 
-    text-align:center; 
-    color:#4ca573;
 }
 
 .introbackground {
-    width: 100px;
+    width: 40px;
     background-image: url(asset/introduction.gif)
 
 }
