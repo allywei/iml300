@@ -3,6 +3,14 @@
     font-family: futura;
     
 }
+.allytext2 {
+    color: white;
+    font-family: futura;
+    text-align: center
+    
+}
+
+
 .colorchange {
     animation: colorchange 3s infinite alternate;
     font-family: futura;
