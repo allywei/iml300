@@ -1,0 +1,25 @@
+.allytext {
+    color: white;
+    font-family: futura;
+    
+}
+.colorchange {
+    animation: colorchange 3s infinite alternate;
+    font-family: futura;
+}
+@keyframes colorchange {
+    0% {color: #addbf4; }
+    100% {color: #ffffff; }
+}
+  
+
+.character-image {
+     display: block;
+    margin-left: auto;
+    margin-right: 50px;
+    margin-top: auto;
+    margin-bottom: 30px;
+    width: 15%
+}
+
+.
