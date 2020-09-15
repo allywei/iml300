@@ -1,6 +1,7 @@
 .allytext {
     color: white;
     font-family: futura;
+    margin-left: 70px;
     
 }
 .allytext2 {
@@ -14,6 +15,8 @@
 .colorchange {
     animation: colorchange 3s infinite alternate;
     font-family: futura;
+    margin-left: 70px;
+    margin-top: 50px;
 }
 @keyframes colorchange {
     0% {color: #addbf4; }
