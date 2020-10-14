@@ -10,6 +10,7 @@ function draw() {
   let m = minute();
   let s = second();
 
+
 //text
       //1am to 2am
       if (h >= 1 && h < 2) {
