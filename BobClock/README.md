@@ -1,7 +1,7 @@
 # Project Name: Bob Clock
 Project Description: meet bob: your encouraging side clock that changes colors in the morning, afternoon, and evening!
 
-![BobClock] (https://allywei.github.io/iml300/homepage_assets/BobClock.gif)
+![BobClock](https://allywei.github.io/iml300/homepage_assets/BobClock.gif)
 
 ### How to Install Bob
 
