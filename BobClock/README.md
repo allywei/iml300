@@ -1,9 +1,9 @@
-#Project Name: Bob Clock
+# Project Name: Bob Clock
 Project Description: meet bob: your encouraging side clock that changes colors in the morning, afternoon, and evening!
 
-! [BobClock] (https://allywei.github.io/iml300/homepage_assets/BobClock.gif)
+![BobClock] (https://allywei.github.io/iml300/homepage_assets/BobClock.gif)
 
-###How to Install Bob
+### How to Install Bob
 
 1. Download this repo as a zip file and unzip it to a local folder
 2. Open the `chrome://extensions` page
