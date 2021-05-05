@@ -1,0 +1,161 @@
+
+.dontbuckle {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: auto;
+    width: 22%;
+}
+
+.buckle {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 300px;
+    margin-bottom: auto;
+    width: 15%;
+}
+.sprite {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: auto;
+    width: 15%;
+}
+
+.water {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 300px;
+    margin-bottom: auto;
+    width: 15%;
+}
+    
+.silent {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: auto;
+    width: 20%;
+}
+
+.thankyou {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 300px;
+    margin-bottom: auto;
+    width: 20%;
+}
+
+.enter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 500px;
+    margin-bottom: auto;
+    width: 20%;
+}
+   
+
+.centeraudio {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.over-video {
+    position: relative;
+    top: 15px;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 25px;
+    width: 30%;
+}
+
+.over-video2 {
+    position: relative;
+    top: 15px;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 25px;
+    width: 30%;
+    font-size: 3;
+}
+.video-button{
+    position: relative;
+    top: 50px;
+    bottom: 5px;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 25px;
+    width: 10%;
+}
+
+.in-video {
+    width: 100%;
+    height: auto;
+}
+
+video {
+    object-fit: fill;
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+}
+
+.backgroundintro {
+    width: 100px;
+    object-fit: cover;
+
+}
+
+.start {
+    display: block;
+    margin-left: 900px;
+    margin-right: auto;
+    margin-top: 300px;
+    margin-bottom: auto;
+    width: 15%;
+}
+
+.restart {
+    display: block;
+    margin-left: 900px;
+    margin-right: auto;
+    margin-top: 150px;
+    margin-bottom: auto;
+    width: 15%;
+}
+
+.door2 {
+    display: block;
+    margin-left: 25px;
+    margin-right: auto;
+    margin-top: 25px;
+    margin-bottom: auto;
+    width: 20%;
+    
+}
